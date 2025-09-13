@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+python-dotenv==1.0.0
+Pillow==10.1.0
+requests[socks]==2.31.0
+aiohttp[socks]==3.9.1
+exifread==3.0.0
