@@ -52,8 +52,8 @@ nano .env  # отредактируйте настройки
 ```env
 # Telegram Bot Configuration
 BOT_TOKEN=your_bot_token_here
-SOURCE_CHANNEL_ID=-1001234567890
-TARGET_CHANNEL_ID=-1001234567891
+SOURCE_CHANNEL_ID=
+TARGET_CHANNEL_ID=
 
 # Proxy Configuration (обязательно для продакшена)
 PROXY_URL=socks5://proxy.example.com:1080
